@@ -609,11 +609,11 @@ namespace InstallmentPlan
             }
             else if (collectionPlan.InstalmentMethod == (short)InstallmentPlan.InstalmentMethod.VariableAmount)
             {
-                //bunlar için coeflist düzenlenmeyecek
+               
             }
             else if (collectionPlan.InstalmentMethod == (short)InstallmentPlan.InstalmentMethod.VariablePrincipal)
             {
-                //bunlar için coeflist düzenlenmeyecek
+                
             }
             else
             {
